@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+
+.reg{
+  background-image: url('wp2564019-background.jpg');
+  height: 40rem;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  overflow: auto;
+}
